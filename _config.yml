@@ -1,0 +1,10 @@
+title: My personal website
+
+
+theme: minima
+
+plugin:
+    - jekyll-feed
+    - jekyll-seo-tag
+    
+minima:
