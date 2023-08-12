@@ -45,4 +45,4 @@ I synthesized novel active colloids for dynamic assembly.
 - **BIOMOD Biomolecular Design Competition**  
 This competition is held at University of California, San Francisco. We use DNA origami to make a nanocage for encapsulation of TMV protein. We won silver award. 
 - **Final year project**  
-I synthesized JLU-111, a novel double-layered material, for purification of waste water.
+I synthesized porous materials for purification of pollutant in water.
