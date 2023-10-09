@@ -5,7 +5,7 @@
       <h1>Tianran Zhang</h1>
       <p><b>Ph.D candidate</b></p>
       <p><b>The University of Hong Kong</b></p>
-      <p><b>Email: zhangtr@connect.hku.hk</b></p>
+      <p><b>Email: zhangtr@connect.hku.hk; zhang97@hku.hk</b></p>
       <p><b>Address: Room 401, Hui Oi Chow Science Building, The University of Hong Kong, Pok Fu Lam Road, Hong Kong</b></p>
     </td>
     <td width="25%">
@@ -17,24 +17,25 @@
 
 ---
 
-### Other websites
-[LinkedIn](https://hk.linkedin.com/in/tianran-zhang-b6348b169/en), [Google Scholar](https://scholar.google.com/citations?user=yVpiCaMAAAAJ), [GitHub](https://github.com/zhangtianran), [zhihu](https://www.zhihu.com/people/cang-ran-lao-zei-zhang-tian-shi), [Bilibili](https://space.bilibili.com/5134338?spm_id_from=333.337.0.0)
+### **OTHER WEBSITES**
+[LinkedIn](https://hk.linkedin.com/in/tianran-zhang-b6348b169/en), [Google Scholar](https://scholar.google.com/citations?user=yVpiCaMAAAAJ), [GitHub](https://github.com/zhangtianran), [Zhihu](https://www.zhihu.com/people/cang-ran-lao-zei-zhang-tian-shi), [Bilibili](https://space.bilibili.com/5134338?spm_id_from=333.337.0.0)
 
-### Personal introduction
+### **PERSONAL INTRODUCTION**
 I am currently pursuing Ph.D in Prof. [Yufeng Wang's group](https://wanglab.hku.hk/) in HKU. My research covers on the synthesis of colloids and the colloidal assemblies, ranging from patchy colloids to active colloids. I employed techniques, including dispersed polymerisation, wetting-dewetting strategy, to create colloids with anisotropic patches or stimuli-responsiveness. I also investigated the self- and directed assembly of colloids into complex structure and patterns with tuneable interaction.
 
 I also upload some videos about travel or my cats on [Bilibili](https://space.bilibili.com/5134338?spm_id_from=333.337.0.0) as my hobbies.
 
-### Research Direction
+### **RESEARCH DIRECTION**
 - **Synthesis of novel colloids**
 - **Colloidal assembly**
 
-### Honors
+### **HONORS**
+- **Outstanding Teaching Assistant Award**
 - **Postgraduate Student Award**
 - **Lee Shau Kee Postgraduate Fellowship**
 - **Silver Award in BIOMOD Biomolecular Design Competition**
 
-### Research Projects
+### **RESEARCH PROJECTS**
 #### The University of Hong Kong（2019.9~present）
 - **Chiral assembly of colloidal particles**  
 I synthesized Janus MOF particles and assemble them into chiral clusters.
