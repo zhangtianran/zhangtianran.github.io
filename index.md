@@ -48,7 +48,7 @@ This competition is held at University of California, San Francisco. We use DNA 
 - **Final year project**  
 I synthesized porous materials for purification of pollutant in water.
 
-#### ** Selfie with famous researchers**
+### **Selfie with famous researchers**
 <div>
 <table border="0">
   <tr>
