@@ -23,10 +23,10 @@
 ### **PERSONAL INTRODUCTION**
 I am currently pursuing Ph.D in Prof. [Yufeng Wang's group](https://wanglab.hku.hk/) in HKU. My research covers on the synthesis of colloids and the colloidal assemblies, ranging from patchy colloids to active colloids. I employed techniques, including dispersed polymerisation, wetting-dewetting strategy, to create colloids with anisotropic patches or stimuli-responsiveness. I also investigated the self- and directed assembly of colloids into complex structure and patterns with tuneable interaction.
 
-I also upload some videos about travel or my cats on [Bilibili](https://space.bilibili.com/5134338?spm_id_from=333.337.0.0) as my hobbies.
+I also upload some videos about travel or my cats on video platform [Bilibili](https://space.bilibili.com/5134338?spm_id_from=333.337.0.0).
 
 ### **RESEARCH DIRECTION**
-- **Synthesis of novel colloids**
+- **Synthesis of colloids**
 - **Colloidal assembly**
 
 ### **HONORS**
@@ -44,9 +44,7 @@ I synthesized novel active colloids for dynamic assembly.
 
 #### Jilin University（2015.9~2019.7）
 - **BIOMOD Biomolecular Design Competition**  
-This competition is held at University of California, San Francisco. We use DNA origami to make a nanocage for encapsulation of TMV protein. We won silver award. 
-- **Final year project**  
-I synthesized porous materials for purification of pollutant in water.
+This competition was held at University of California, San Francisco. We used DNA origami to make a nanocage for encapsulation of TMV protein. We won silver award. 
 
 ### **SELFIES WITH FAMOUS RESEARCHERS**
 <div>
