@@ -47,3 +47,31 @@ I synthesized novel active colloids for dynamic assembly.
 This competition is held at University of California, San Francisco. We use DNA origami to make a nanocage for encapsulation of TMV protein. We won silver award. 
 - **Final year project**  
 I synthesized porous materials for purification of pollutant in water.
+
+#### ** Selfie with famous researchers**
+<div>
+<table border="0">
+  <tr>
+    <td width="50%">
+        Prof. Bernard Lucas Feringa, the Novel Prize winner.
+    </td>
+    <td width="50%">
+      <img src="feringa.jpg" width="50%">
+    </td>
+  </tr>
+</table>
+</div>
+
+<div>
+<table border="0">
+  <tr>
+    <td width="50%">
+        Prof. Chad Mirkin, professor in Northwestern University.
+    </td>
+    <td width="50%">
+      <img src="mirkin.jpg" width="50%">
+    </td>
+  </tr>
+</table>
+</div>
+
