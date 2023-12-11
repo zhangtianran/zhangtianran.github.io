@@ -73,3 +73,28 @@ This competition was held at University of California, San Francisco. We used DN
 </table>
 </div>
 
+<div>
+<table border="0">
+  <tr>
+    <td width="50%">
+        Prof. Samuel Stupp, professor in Northwestern University.
+    </td>
+    <td width="50%">
+      <img src="stupp.jpg" width="50%">
+    </td>
+  </tr>
+</table>
+</div>
+
+<div>
+<table border="0">
+  <tr>
+    <td width="50%">
+        Prof. Peidong Yang, professor in UC Berkeley.
+    </td>
+    <td width="50%">
+      <img src="peidong.jpg" width="50%">
+    </td>
+  </tr>
+</table>
+</div>
