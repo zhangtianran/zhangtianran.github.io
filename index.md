@@ -98,3 +98,16 @@ This competition was held at University of California, San Francisco. We used DN
   </tr>
 </table>
 </div>
+
+<div>
+<table border="0">
+  <tr>
+    <td width="50%">
+        Prof. Yi Cui, professor in Stanford University.
+    </td>
+    <td width="50%">
+      <img src="yi.jpg" width="50%">
+    </td>
+  </tr>
+</table>
+</div>
