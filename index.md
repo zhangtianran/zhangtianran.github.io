@@ -130,7 +130,7 @@ Study as an exchange student.
 <table border="0">
   <tr>
     <td width="50%">
-        Prof. Stefano Sacanna, professor in Stanford University.
+        Prof. Stefano Sacanna, professor in New York University.
     </td>
     <td width="50%">
       <img src="stefano.jpg" width="50%">
