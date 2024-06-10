@@ -112,3 +112,29 @@ Study as an exchange student.
   </tr>
 </table>
 </div>
+
+<div>
+<table border="0">
+  <tr>
+    <td width="50%">
+        Prof. David J. Pine, professor in New York University.
+    </td>
+    <td width="50%">
+      <img src="pine.jpg" width="50%">
+    </td>
+  </tr>
+</table>
+</div>
+
+<div>
+<table border="0">
+  <tr>
+    <td width="50%">
+        Prof. Stefano Sacanna, professor in Stanford University.
+    </td>
+    <td width="50%">
+      <img src="stefano.jpg" width="50%">
+    </td>
+  </tr>
+</table>
+</div>
