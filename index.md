@@ -138,3 +138,16 @@ Study as an exchange student.
   </tr>
 </table>
 </div>
+
+<div>
+<table border="0">
+  <tr>
+    <td width="50%">
+        Prof. Dirk Aarts, professor in University of Oxford.
+    </td>
+    <td width="50%">
+      <img src="aarts.jpg" width="50%">
+    </td>
+  </tr>
+</table>
+</div>
